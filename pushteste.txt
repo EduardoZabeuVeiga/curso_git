@@ -1,0 +1,2 @@
+fazendo "push" somente da branch paralela(fotossintese)
+verificar comportamento !!!!
